@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/placeat-repellat-earum-hic",
-  "version": "3.1.37",
+  "version": "3.1.38",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -442,5 +442,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/placeat-repellat-earum-hic/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
